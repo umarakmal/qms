@@ -1,0 +1,358 @@
+/* QmsSheetCreate */
+@media (min-width: 1064px){
+    div.res {
+        height: 75px;
+        }
+}
+@media (min-width: 1024px) and (max-width: 1064px) {
+  
+    div.b {
+        height: 1px;
+        }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+  
+    div.b {
+        height: 1px;
+        }
+}
+/* importListData */
+
+@media (min-width:376px) and (max-width: 425px)
+{
+    div.new{
+        margin-left: 0.25rem!important;
+    }
+
+    legend.from{
+        width: 75px;
+        margin-left: .25rem!important;
+    }
+
+    legend.to{
+        width: 90px;
+        margin-left: 3.75rem!important;
+    }
+   
+}
+@media (min-width:321px) and (max-width:375px)
+{
+    div.new{
+        /* background-color: blue; */
+        margin-left: 0.25rem!important;
+    }
+
+    legend.from{
+        width: 75px;
+        margin-left: .35rem!important;
+    }
+    legend.to{
+        width: 90px;
+        margin-left: 2.55rem!important;
+    }
+   
+}
+@media (max-width: 320px)
+{
+    div.new{
+        /* background-color: blue; */
+        margin-left: 0.25rem!important;
+    }
+
+    legend.from{
+        width: 75px;
+        margin-left: .35rem!important;
+    }
+    legend.to{
+        width: 90px;
+        margin-left: 1.05rem!important;
+    }
+}
+
+/* SampleAllocation */
+
+@media (min-width: 321px) and (max-width:1024px)
+{
+    div.performance{
+        width: 120px;
+    }
+
+    div.score{
+        margin-left: 2.05rem!important;
+    }
+
+    label.group{
+        width: 155px;
+    }
+    div.alrow{
+        margin-left: 175px!important;
+    }
+
+    div.qa{
+        margin-left: .15rem!important;
+    }
+
+    select.qabox{
+        width: 145px!important;
+    }
+    select.tlbox{
+        width: 145px!important;
+        margin-left: 17px;
+    }
+    select.tbox{
+        width: 145px!important;
+        margin-left: 43px;
+    }
+    div.albtn{
+        margin-left: 90px!important;
+    }
+    div.qarow{
+        margin-right: 25px!important;
+    }
+    div.tlrow{
+        margin-right: 20px!important;
+    }
+    div.trow{
+        margin-right: 2px!important;
+    }
+}
+@media (max-width: 320px)
+{    
+    div.o1{
+        /* width: 40px; */
+        margin-left: auto!important;
+        font-size:small;
+    }
+    div.o2{
+        /* width: 30px; */
+        margin-left: auto!important;
+    }
+    div.o3{
+        /* width:20px; */
+        margin-left: auto!important;
+    }
+    div.o4{
+        /* width: 20px; */
+        margin-left: 1px!important;
+    }
+    div.achtcol{
+        margin-left: auto!important;
+    }
+    div.per{
+        margin-left: auto!important;
+    }
+    div.per1{
+        margin-left: 1px!important;
+    }
+    div.perfscore{
+        margin-right: 25px!important;
+    }
+    div.perfscore1{
+        margin-right: 25px!important;
+    }
+    button.filterbtn{
+        margin-left: 8px!important;
+    }
+    span.ua{
+        margin-left: 35px!important;
+    }
+    div.tlcheck{
+        margin-left: 1px!important;
+    }
+    div.tcheck{
+        margin-left: 1px!important; 
+    }
+    div.ac{
+        margin-left: 1px!important;
+    }
+    div.qa{
+        margin-left: auto!important;
+    }
+    div.tl{
+        margin-left: auto!important;
+    }
+    div.t{
+        margin-left: auto!important;
+    }
+}
+@media (min-width: 321px) and (max-width: 375px)
+{
+    div.o1{
+        /* width: 40px; */
+        margin-left: auto!important;
+        font-size:small;
+    }
+    div.o2{
+        /* width: 30px; */
+        margin-left: auto!important;
+    }
+   div.o3{
+        /* width:20px; */
+        margin-left: auto!important;
+    }
+     div.o4{
+        /* width: 20px; */
+        margin-left: 1px!important;
+    }
+    div.achtcol{
+        margin-left: auto!important;
+    }
+    div.per{
+        margin-left: auto!important;
+    }
+    div.per1{
+        margin-left: 1px!important;
+    }
+    div.perfscore{
+        margin-right: 25px!important;
+    }
+    div.perfscore1{
+        margin-right: 25px!important;
+        margin-left: 2px!important;
+    }
+    button.filterbtn{
+        margin-left: 8px!important;
+    }
+    span.ua{
+        margin-left: 125px!important;
+    }
+    div.alrow{
+        /* width: 10px; */
+        margin-left: 1px!important;
+    }
+    div.tlcheck{
+        margin-left: 1px!important;
+    }
+    div.tcheck{
+        margin-left: 1px!important; 
+    }
+    div.ac{
+        margin-left: 1px!important;
+    }
+    div.qa{
+        /* margin-left: 1px!important; */
+        /* margin-right: 1px!important; */
+        /* width: 180px!important; */
+    }
+    div.tl{
+        margin-left: -13px!important;
+        /* margin-right: 5px!important; */
+    }
+    div.t{
+        margin-left: -40px!important;
+    }
+    select.qabox{
+        width: 280px!important;
+    }
+    select.tlbox{
+        width: 280px!important;
+    }
+    select.tbox{
+        width: 280px!important;
+    }
+    div.trow{
+        width: 285px;
+    }
+    div.tlrow{
+        width: 285px;
+    }
+}
+@media (min-width: 376px) and (max-width: 425px)
+{
+    div.o1{
+        /* width: 40px; */
+        margin-left: auto!important;
+        font-size:small;
+    }
+    div.o2{
+        /* width: 30px; */
+        margin-left: auto!important;
+    }
+   div.o3{
+        /* width:20px; */
+        margin-left: auto!important;
+    }
+     div.o4{
+        /* width: 20px; */
+        margin-left: 1px!important;
+    }
+    div.achtcol{
+        margin-left: auto!important;
+    }
+    div.per{
+        margin-left: auto!important;
+    }
+    div.per1{
+        margin-left: 1px!important;
+    }
+    div.perfscore{
+        margin-right: 25px!important;
+    }
+    div.perfscore1{
+        margin-right: 25px!important;
+        margin-left: 2px!important;
+    }
+    button.filterbtn{
+        margin-left: 8px!important;
+    }
+    span.ua{
+        margin-left: 125px!important;
+    }
+    div.alrow{
+        /* width: 10px; */
+        margin-left: 1px!important;
+    }
+    div.tlcheck{
+        margin-left: 1px!important;
+    }
+    div.tcheck{
+        margin-left: 1px!important; 
+    }
+    div.ac{
+        margin-left: 1px!important;
+    }
+    div.qa{
+        /* margin-left: 1px!important; */
+        /* margin-right: 1px!important; */
+        /* width: 180px!important; */
+    }
+    div.tl{
+        margin-left: -13px!important;
+        /* margin-right: 5px!important; */
+    }
+    div.t{
+        margin-left: -40px!important;
+    }
+    select.qabox{
+        width: 280px!important;
+    }
+    select.tlbox{
+        width: 280px!important;
+    }
+    select.tbox{
+        width: 280px!important;
+    }
+    div.trow{
+        width: 285px;
+    }
+    div.tlrow{
+        width: 286px;
+    }
+    div.qarow{
+        width: 286px;
+    }
+    div.ac{
+        width: 75px;
+    }
+  
+}
+
+.abc:hover {
+    background-color: #1c1d1e;
+    width: 90%;
+    margin-left: 1.5%;
+  }
+
+  .rti--container {
+    max-width: 100%;
+  }
