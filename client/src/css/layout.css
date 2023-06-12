@@ -1,0 +1,51 @@
+.container{
+    margin-left: 16% !important;
+}
+.company-icon {
+    width: auto;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .dp-icon{
+
+    width: auto;
+    height: 35px;
+  }
+
+  .management{
+      display: flex;
+      flex-direction:row;
+      justify-content:space-evenly;
+      
+  }
+
+  .txt{
+      height: 70px;
+  }
+  .nav-item li a{
+      color: black;
+  }
+
+  .navbar{
+      position: relative;
+      justify-content: end;
+      margin-bottom: 0;
+  }
+  
+  li a{
+      color: black !important;
+      font-weight: 600 !important;
+      font-size: larger !important;
+      margin-top: -10px;
+      text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+}
+
