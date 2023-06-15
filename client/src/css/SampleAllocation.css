@@ -1,0 +1,130 @@
+
+		.mainDiv {
+			background-color: #ffc51e;
+			text-align: left;
+			color: #ffffff;
+			font-weight: bold;
+			font-size: 15px;
+			width: 100%
+		}
+
+		.error_control {
+			outline: 1px solid red;
+		}
+
+		.headercss {
+			background-color: #17a2b8;
+			color: white;
+		}
+
+		.headercss2 {
+			background-color: #ffc51e;
+			color: #ffffff;
+		}
+
+		.style2 {
+			width: 100%;
+			color: #000000;
+			float: left;
+			border: solid #6d716a 1px;
+			background-color: #e9eae6;
+			padding: 5px;
+		}
+
+		.rowStyle {
+			background-color: #e9eae6;
+			color: #000000;
+		}
+	
+
+		.label {
+
+			padding: 5px;
+			display: inline-block;
+			text-transform: uppercase;
+			text-align: center;
+			font: 400 13.3333px Arial;
+		}
+
+		.success {
+			background-color: #008000;
+		}
+
+		/* Green */
+		.info {
+			background-color: #D3D3D3;
+		}
+
+		/* Blue */
+		.warning {
+			background-color: #D3D3D3;
+		}
+
+		/* Orange */
+		.danger {
+			background-color: #f44336;
+		}
+
+		/* Red */
+		.option {
+			background-color: #B0B0B0;
+		}
+
+		/* Red */
+		.allocate {
+			background-color: #B0B0B0;
+		}
+
+		/* Red */
+		.other {
+			background-color: #B0B0B0;
+			color: black;
+		}
+
+		/* Gray */
+	
+
+
+		.form-control:focus {
+			border-color: #d01010;
+			outline: 0;
+			box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(233, 102, 139, 0.6);
+
+		}
+
+		#overlay {
+			position: fixed;
+			top: 0;
+			z-index: 100;
+			width: 100%;
+			height: 100%;
+			display: none;
+			background: rgba(0, 0, 0, 0.6);
+		}
+
+		.cv-spinner {
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.spinner {
+			width: 40px;
+			height: 40px;
+			border: 4px #ddd solid;
+			border-top: 4px #2e93e6 solid;
+			border-radius: 50%;
+			animation: sp-anime 0.8s infinite linear;
+		}
+
+		@keyframes sp-anime {
+			100% {
+				transform: rotate(360deg);
+			}
+		}
+
+		.is-hide {
+			display: none;
+		}
+	
